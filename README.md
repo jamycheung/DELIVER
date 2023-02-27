@@ -1,7 +1,13 @@
- 
+<div align="center"> 
 
-# DELIVER dataset
+## DeLiVER:Towards Arbitrary-Modal Semantic Segmentation
+
+</div>
+
+
+## CMNeXt models
+![CMNeXt](figs/CMNeXt.png)
+
+
+## DeLiVER dataset
 ![DELIVER](figs/DELIVER.png)
-
-## Introduction
-TODO.
