@@ -164,7 +164,7 @@ data/
 | CMNeXt-RGB-D (MiT-B4)     | 56.9 | [GoogleDrive](https://drive.google.com/drive/folders/1OXrMv1Mi6E-vyedlkNpfc5ibJeJDfwqq?usp=share_link) |
 ### MFNet
 
-| Model-Modal      | mIoU   | weights |
+| Model-Modal      | mIoU   | weight |
 | :--------------- | :----- | :------ |
 | CMNeXt-RGB-D (MiT-B4)     | 59.9 | [GoogleDrive](https://drive.google.com/drive/folders/1OaOHMbD5P_HPwTzzXwdYRUFIiGkyFQfP?usp=share_link) |
 ### UrbanLF
