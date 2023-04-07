@@ -45,7 +45,9 @@ DeLiVER multimodal dataset including (a) four adverse conditions out of five con
 
 
 ### Data folder structure
-**Download DELIVER dataset from [**GoogleDrive**](https://drive.google.com/file/d/1P-glCmr-iFSYrzCfNawgVI9qKWfP94pm/view?usp=share_link)**, and the `data/DELIVER` folder is structured as:
+**Download DELIVER dataset from [**GoogleDrive**](https://drive.google.com/file/d/1P-glCmr-iFSYrzCfNawgVI9qKWfP94pm/view?usp=share_link) (~12.2 GB)**. 
+
+The `data/DELIVER` folder is structured as:
 ```text
 DELIVER
 ├── depth
