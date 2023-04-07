@@ -86,7 +86,7 @@ conda activate cmnext
 
 ## Data preparation
 Prepare six datasets:
-- [DELIVER](), for RGB-Depth-Event-LiDAR semantic segmentation.
+- [DELIVER](https://github.com/jamycheung/DELIVER), for RGB-Depth-Event-LiDAR semantic segmentation.
 - [KITTI-360](https://www.cvlibs.net/datasets/kitti-360/), for RGB-Depth-Event-LiDAR semantic segmentation.
 - [NYU Depth V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html), for RGB-Depth semantic segmentation.
 - [MFNet](https://github.com/haqishen/MFNet-pytorch), for RGB-Thermal semantic segmentation.
