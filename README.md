@@ -178,7 +178,7 @@ There are **real** and **synthetic** datasets.
 | CMNeXt-RGB-LF80 | 83.11 | [GoogleDrive](https://drive.google.com/drive/folders/1OfepYOYaM8I0itjuHK4csqmAuu_zHol-?usp=share_link) | 81.02 | [GoogleDrive](https://drive.google.com/drive/folders/1OfepYOYaM8I0itjuHK4csqmAuu_zHol-?usp=share_link) |
 
 ### MCubeS
-| Model-Modal      | Real   | weight |
+| Model-Modal      | mIoU   | weight |
 | :--------------- | :----- | :----- |
 | CMNeXt-RGB       | 48.16 | [GoogleDrive](https://drive.google.com/drive/folders/1OgbqpT6TSCPPsoJn0sh2wfXNy5mL5nk9?usp=share_link) |
 | CMNeXt-RGB-A     | 48.42 | [GoogleDrive](https://drive.google.com/drive/folders/1OgbqpT6TSCPPsoJn0sh2wfXNy5mL5nk9?usp=share_link) |
