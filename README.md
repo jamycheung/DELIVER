@@ -37,7 +37,7 @@ For more details, please check our [arXiv](https://arxiv.org/pdf/2303.01480.pdf)
 
 ## DeLiVER dataset
 
-![DELIVER](figs/DELIVER.gif)
+![DELIVER](figs/DeLiVER.gif)
 
 ![DELIVER](figs/DELIVER.png)
 
