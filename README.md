@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/arXiv-2303.01480-red" /></a>
 <a href="https://jamycheung.github.io/DELIVER.html">
     <img src="https://img.shields.io/badge/Project-page-green" /></a>
+<a href="https://www.youtube.com/watch?v=X-VeSLsEToA">
+    <img src="https://img.shields.io/badge/Video-YouTube-%23FF0000.svg" /></a>
 <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/Framework-PyTorch-orange.svg" /></a>
 <a href="https://github.com/jamycheung/DELIVER/blob/main/LICENSE">
@@ -34,6 +36,8 @@ For more details, please check our [arXiv](https://arxiv.org/pdf/2303.01480.pdf)
 - [x] 04/2023, release CMNeXt model weights. Download from [**GoogleDrive**](https://drive.google.com/drive/folders/1MZaaZ5_rEVSjns3TBM0UDt6IW4X-HPIN?usp=share_link).
 
 ## DeLiVER dataset
+
+![DELIVER](figs/DELIVER.gif)
 
 ![DELIVER](figs/DELIVER.png)
 
