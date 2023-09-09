@@ -300,20 +300,20 @@ If you use DeLiVer dataset and CMNeXt model, please cite the following works:
 
 - **DeLiVER & CMNeXt** [[**PDF**](https://arxiv.org/pdf/2303.01480.pdf)]
 ```
-@article{zhang2023delivering,
+@inproceedings{zhang2023delivering,
   title={Delivering Arbitrary-Modal Semantic Segmentation},
-  author={Zhang, Jiaming and Liu, Ruiping and Shi, Hao and Yang, Kailun and Reiß, Simon and Peng, Kunyu and Fu, Haodong and Wang, Kaiwei and Stiefelhagen, Rainer},
-  journal={arXiv preprint arXiv:2303.01480},
+  author={Zhang, Jiaming and Liu, Ruiping and Shi, Hao and Yang, Kailun and Rei{\ss}, Simon and Peng, Kunyu and Fu, Haodong and Wang, Kaiwei and Stiefelhagen, Rainer},
+  booktitle={CVPR},
   year={2023}
 }
 ```
 
 - **CMX** [[**PDF**](https://arxiv.org/pdf/2203.04838.pdf)]
 ```
-@article{liu2022cmx,
-  title={CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers},
-  author={Liu, Huayao and Zhang, Jiaming and Yang, Kailun and Hu, Xinxin and Stiefelhagen, Rainer},
-  journal={arXiv preprint arXiv:2203.04838},
-  year={2022}
+@article{zhang2023cmx,
+  title={CMX: Cross-modal fusion for RGB-X semantic segmentation with transformers},
+  author={Zhang, Jiaming and Liu, Huayao and Yang, Kailun and Hu, Xinxin and Liu, Ruiping and Stiefelhagen, Rainer},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2023}
 }
 ```
