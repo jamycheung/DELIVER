@@ -84,7 +84,7 @@ CMNeXt architecture in Hub2Fuse paradigm and asymmetric branches, having e.g., M
 ## Environment
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate cmnext
 # Optional: install apex follow: https://github.com/NVIDIA/apex
 ```
