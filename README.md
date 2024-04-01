@@ -25,6 +25,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/delivering-arbitrary-modal-semantic/semantic-segmentation-on-mcubes-p)](https://paperswithcode.com/sota/semantic-segmentation-on-mcubes-p?p=delivering-arbitrary-modal-semantic)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/delivering-arbitrary-modal-semantic/semantic-segmentation-on-urbanlf)](https://paperswithcode.com/sota/semantic-segmentation-on-urbanlf?p=delivering-arbitrary-modal-semantic)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/delivering-arbitrary-modal-semantic/thermal-image-segmentation-on-noisy-rs-rgb-t)](https://paperswithcode.com/sota/thermal-image-segmentation-on-noisy-rs-rgb-t?p=delivering-arbitrary-modal-semantic)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/delivering-arbitrary-modal-semantic/semantic-segmentation-on-ddd17)](https://paperswithcode.com/sota/semantic-segmentation-on-ddd17?p=delivering-arbitrary-modal-semantic)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/delivering-arbitrary-modal-semantic/semantic-segmentation-on-dsec)](https://paperswithcode.com/sota/semantic-segmentation-on-dsec?p=delivering-arbitrary-modal-semantic)
 
 ## Introduction
 
